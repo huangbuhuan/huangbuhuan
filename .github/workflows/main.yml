@@ -15,4 +15,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://blog.buhuan.me/?feed=rss2"
+          feed_list: "https://blog.buhuan.me/rss2.xml"
